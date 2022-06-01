@@ -3,7 +3,7 @@
     background-color: #f8f8f8;
     color: #333;
     font-family: Lato, sans-serif;
-  }
+}
   
 .header {
   width: 500px;
@@ -162,6 +162,7 @@
 
 .edit-mode .label {
   display: none;
+}
 .header__img {
   width: 100%;
 }
